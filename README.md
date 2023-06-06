@@ -1,7 +1,10 @@
 # Module 3 - TP1-Punto2 / React-Vite
 
 ## Description
+
 Proyect with React-Vite. Practice whit component, events, component's lifecycle, etc.
+![image](https://github.com/Leonel2099/Punto2-React-Vite/assets/91150997/b1296281-b90b-4ee9-bf86-4e7f64c4dd52)
+
 ### Technologies used
 [![react][react]][react-url]
 [![vite][vite]][vite-url]
