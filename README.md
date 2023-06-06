@@ -1,4 +1,4 @@
-# Module 3 - TP1-Punto2 / React-Vite
+# Module 3 - TP1-Exercise2 / React-Vite
 
 ## Description
 
